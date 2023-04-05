@@ -1,0 +1,8 @@
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter2\bin\Debug\countCharacter2.exe
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter2\bin\Debug\countCharacter2.pdb
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter2\obj\x86\Debug\countCharacter2.exe
+C:\Users\pc\AppData\Local\Temporary Projects\countCharacter2\obj\x86\Debug\countCharacter2.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\countCharacter2\countCharacter2\obj\x86\Debug\countCharacter2.exe
+C:\Users\pc\documents\visual studio 2010\Projects\countCharacter2\countCharacter2\obj\x86\Debug\countCharacter2.pdb
+C:\Users\pc\documents\visual studio 2010\Projects\countCharacter2\countCharacter2\bin\Debug\countCharacter2.exe
+C:\Users\pc\documents\visual studio 2010\Projects\countCharacter2\countCharacter2\bin\Debug\countCharacter2.pdb
